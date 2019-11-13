@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SimpleServer.Plugin.Settings">
+    <option name="relativeFolderList">
+      <list>
+        <RelativeFolder>
+          <option name="relativePath" value="applications/NetCracker/NetCrackerWebApp/WEB-INF/lib" />
+          <option name="type" value="jar" />
+        </RelativeFolder>
+        <RelativeFolder>
+          <option name="relativePath" value="applications/NetCracker/APP-INF/lib" />
+          <option name="type" value="jar" />
+        </RelativeFolder>
+      </list>
+    </option>
+    <option name="nameFilters">
+      <set>
+        <option value="pom.xml" />
+      </set>
+    </option>
+    <option name="wildcardFilters">
+      <set>
+        <option value="ObjectsStructure_*.xml" />
+        <option value="Prerequisites_*.xml" />
+        <option value="WorkbookStructure_*.xml" />
+        <option value="attr_*.xml" />
+        <option value="attr_group_*.xml" />
+        <option value="attr_scheme_*.xml" />
+        <option value="attr_type_*.xml" />
+        <option value="binding_*.xml" />
+        <option value="directory_*.xml" />
+        <option value="grants_*.xml" />
+        <option value="listener_*.xml" />
+        <option value="nc_po_task_*.xml" />
+        <option value="nls_attr_*.xml" />
+        <option value="obj_*.xml" />
+        <option value="pic_*.xml" />
+        <option value="queue_*.xml" />
+        <option value="rep_*.xml" />
+        <option value="resource_*.xml" />
+        <option value="view_*.xml" />
+      </set>
+    </option>
+    <option name="excludedFolders">
+      <set>
+        <option value=".git" />
+        <option value=".idea" />
+        <option value=".svn" />
+      </set>
+    </option>
+    <option name="searchTypes">
+      <set>
+        <option value=".jar" />
+        <option value=".jsp" />
+        <option value=".xml" />
+      </set>
+    </option>
+    <option name="modules">
+      <set>
+        <Module>
+          <option name="active" value="true" />
+          <option name="name" value="qulice" />
+          <option name="types">
+            <map>
+              <entry key="jar" value="true" />
+              <entry key="jsp" value="true" />
+              <entry key="xml" value="true" />
+            </map>
+          </option>
+        </Module>
+        <Module>
+          <option name="active" value="true" />
+          <option name="name" value="src" />
+          <option name="types">
+            <map>
+              <entry key="jar" value="true" />
+              <entry key="jsp" value="true" />
+              <entry key="xml" value="true" />
+            </map>
+          </option>
+        </Module>
+        <Module>
+          <option name="active" value="true" />
+          <option name="name" value="testmodule" />
+          <option name="types">
+            <map>
+              <entry key="jar" value="true" />
+              <entry key="jsp" value="true" />
+              <entry key="xml" value="true" />
+            </map>
+          </option>
+        </Module>
+        <Module>
+          <option name="active" value="true" />
+          <option name="name" value="~FAVORITE~" />
+          <option name="types">
+            <map>
+              <entry key="jar" value="true" />
+              <entry key="jsp" value="true" />
+              <entry key="xml" value="true" />
+            </map>
+          </option>
+        </Module>
+      </set>
+    </option>
+  </component>
+</project>
